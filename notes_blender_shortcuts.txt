@@ -1,0 +1,15 @@
+1/2/3                                   switch select mode
+Tab                                     toggle object/edit mode
+Ctrl+Tab on object                      mode select
+Ctrl+Tab on rig                         toggle object/pose mode
+Shift+Z                                 toggle wireframe mode
+J in vertex mode                        join vertices
+  (multiple vertices selected)
+Ctrl+X                                  remove selected item + join adjacent
+                                        faces
+Ctrl+RMB                                Select shortest path
+
+Animaton curves
+--------------------------------------------------------------------------------
+V on key frame                          change bezier node type
+T                                       change interpolation mode
